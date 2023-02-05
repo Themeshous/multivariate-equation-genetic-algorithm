@@ -1,5 +1,5 @@
 # multivariate-equation-genetic-algorithm
-Solving an equation with several variables using the concept of genetic algorithm:
+##Solving an equation with several variables using the concept of genetic algorithm:\n
 We want to solve the following problem, a+2b+3c+4d = 30. For this, a general algorithm will be used to find the value of a, b, c and d that satisfies the problem.
 will be used to find the value of a, b, c and d that satisfies the above equation.
 First, we should formulate the objective function of this problem, the objective is to minimize the value of the function f(x)
